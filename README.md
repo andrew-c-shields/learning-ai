@@ -10,7 +10,7 @@ A place to store files on the different steps that I have taken to learn AI with
 06. ChromaDB restaurant menu search
 
 ## Current step being worked on:
-07. Support chatbot
+Machine learning tutorials in Python
 
 ## Future steps
 - Build a PoC for a simple customer support chat bot
